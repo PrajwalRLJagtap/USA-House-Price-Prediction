@@ -11,7 +11,7 @@ The data contains the following columns:
     'Price': Price that the house sold at
     'Address': Address for the house
     
-    Click [here](https://github.com/PrajwalRLJagtap/USA-House-Price-Prediction/blob/main/USA_House_Price_Prediction.ipynb) for the code and data visualization 
+    Click [here](https://github.com/PrajwalRLJagtap/USA-House-Price-Prediction/blob/main/USA_House_Price_Prediction.ipynb) for the code and Data visualization 
 
 
 
