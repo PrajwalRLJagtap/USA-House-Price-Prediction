@@ -18,3 +18,5 @@ The data contains the following columns:
 
 
 ![enter image description here](https://i.ytimg.com/vi/LvfbopVq-WE/maxresdefault.jpg)
+
+Click [here](https://github.com/PrajwalRLJagtap/USA-House-Price-Prediction/blob/main/USA_House_Price_Prediction.ipynb) for the code and Data visualization 
