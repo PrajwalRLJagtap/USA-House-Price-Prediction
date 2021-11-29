@@ -10,3 +10,11 @@ The data contains the following columns:
     'Area Population': Population of city house is located in
     'Price': Price that the house sold at
     'Address': Address for the house
+    
+    Click [here](https://github.com/PrajwalRLJagtap/USA-House-Price-Prediction/blob/main/USA_House_Price_Prediction.ipynb) for the code and data visualization 
+
+
+
+
+
+![enter image description here](https://i.ytimg.com/vi/LvfbopVq-WE/maxresdefault.jpg)
