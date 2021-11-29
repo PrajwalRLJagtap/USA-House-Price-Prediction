@@ -20,8 +20,3 @@ The data contains the following columns:
 
 
 
-
-
-![enter image description here](https://i.ytimg.com/vi/LvfbopVq-WE/maxresdefault.jpg)
-
-
